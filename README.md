@@ -1,5 +1,18 @@
-# react-boilerplate
+# react-giphy
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+GIF search engine built with React and GIPHY API. 
+	
+## Technologies
+Project is created with:
+* React
+	
+## Setup
 Simple react starter with the following config:
 
 - React, ReactDOM
