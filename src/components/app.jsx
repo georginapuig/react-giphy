@@ -2,7 +2,7 @@
 // When a user clicks on a gif from the list, it should appear on the main scene on the left.
 
 import React, { Component } from 'react';
-import giphy from 'giphy-api';
+import giphy from 'giphy-api'; // yarn add giphy-api
 
 import SearchBar from './search_bar';
 import Gif from './gif';
