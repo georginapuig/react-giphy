@@ -21,7 +21,7 @@ class App extends Component {
 
   search = (query) => {
     // API call
-    giphy(GIPHY_API_KEY).search({
+    giphy({ apiKey: GIPHY_API_KEY, https: true }).search({
       q: query,
       rating: "g",
       limit: 15
