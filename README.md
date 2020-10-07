@@ -11,6 +11,7 @@ GIF search engine built with React and GIPHY API.
 ## Technologies
 Project is created with:
 * React
+* Bootstrap
 	
 ## Setup
 Simple react starter with the following config:
